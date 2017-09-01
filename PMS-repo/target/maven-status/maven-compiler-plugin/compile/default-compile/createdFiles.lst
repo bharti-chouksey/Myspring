@@ -1,0 +1,6 @@
+com\aartek\repository\ProjectStatusRepository.class
+com\aartek\model\User.class
+com\aartek\repository\RegistrationRepository.class
+com\aartek\model\Registration.class
+com\aartek\model\ProjectStatus.class
+com\aartek\repository\LoginRepository.class
